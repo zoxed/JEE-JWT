@@ -22,12 +22,12 @@ o Modèle réactif avec IO non bloquantes
 
 
 - Création des micros-service métiers en mode express basés sur JPA, Spring Data, Spring Data Rest, H2 Data base, Open Feign
-          o Customer Service
+         
+  o Customer Service
   
   o Inventory Service
-  
 
-o Billing Service
+  o Billing Service
 
 
 - Comment Développer et Mettre en place le Discovery Service Netflix Eureka Service
